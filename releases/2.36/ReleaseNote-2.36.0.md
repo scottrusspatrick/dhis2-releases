@@ -6,6 +6,17 @@ This document highlights the key features of the initial release of DHIS2 versio
 
 ## ANALYTICS FEATURES
 
+PWA - Mobile dashboards. Off line. Support filtering (on line), interpretations (on line), and messenger. 
+
+Universal data item search
+
+Dashboard item presentation mode
+
+bar and column chart legend sets
+
+scatter plots 
+
+Top 10 filtering of data in pivot tables. 
 
 
 ## TRACKER AND EVENT FEATURES
