@@ -6,7 +6,7 @@ This version is fully compatible with the DHIS2 [Android Capture App 2.4](https:
 
 ## ANALYTICS FEATURES
 
-_Scatter Plots_ enable users to chart organizational units as points against two variables for a single period. 
+_Scatter Plots_ enable users to chart organizational units as points against two variables for a single fixed or relative period. 
   - *Zoom in* by clicking and dragging the curser over an area you would like to zoom in on. This is often necessary to see more detail in areas where many org. units are clustered together. 
   - *Outlier detection* is enabled using either a modified z-score or an interquartle range via the options menu. An extream vertival (y-axis) and horizontal (x-axis) threshold line can also be applied. Endorsed by the WHO, this is a very clear and powerful way to identify outliers that often represent data quality issues. You can identify the outliers that are most likely to throw off national stastics by using the outlier detection in combination with the extream X and Y threshold lines.
 
